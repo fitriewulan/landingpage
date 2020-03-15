@@ -1,0 +1,41 @@
+[
+  {
+      "name": "Extra",
+      "price": "16.000",
+      "time": "bln",
+      "specifikasi": {
+        "space": "750 MB Space",
+        "bandwidth": "Unlimited Bandwidth",
+        "website": "5 website",
+        "email": "Unlimited Email",
+        "domain": "-",
+        "ssh" : "-"
+      }
+  },
+  {
+    "name": "Super",
+    "price": "32.000",
+    "time": "bln",
+    "specifikasi": {
+      "space": "2 GB Space",
+      "bandwidth": "Unlimited Bandwidth",
+      "website": "Unlimited website",
+      "email": "Unlimited Email",
+      "domain": "Gratis Domain",
+      "ssh" : "Akses SSH"
+    }
+  },
+  {
+    "name": "Monster",
+    "price": "64.000",
+    "time": "bln",
+    "specifikasi": {
+      "space": "5 GB Space",
+      "bandwidth": "Unlimited Bandwidth",
+      "website": "Unlimited website",
+      "email": "Unlimited Email",
+      "domain": "Gratis Domain",
+      "ssh" : "Akses SSH"
+    }
+  }
+]
